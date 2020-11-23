@@ -1,0 +1,33 @@
+html{
+    max-width: 60em;
+    margin: auto;
+}
+
+h1 {
+    color: black;
+    background-color: yellow;
+    text-align: center;
+    padding: 8px;
+  }
+  
+  h3 {
+    color: white;
+    background-color: orange;
+    text-align: left;
+    padding: 6px;
+
+  }
+
+  DIV.receta {
+    width: auto;
+  }
+
+  img {
+      max-width: 90%;
+      padding-left: 70px;
+  }
+
+  DIV.ingredientes{
+      width: auto;
+      margin-left: 1cm;
+  }
